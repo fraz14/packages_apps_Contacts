@@ -28,7 +28,7 @@
     <color name="quickcontact_entry_sub_header_text_color">#737373</color>
     <color name="quickcontact_entry_header_text_color">#202020</color>
 
-    <color name="action_bar_background">#2a56c6</color>
+    <color name="action_bar_background">#576E93</color>
 
     <color name="nav_item_selected_background">#0f000000</color>
 
@@ -41,7 +41,7 @@
     <color name="contextual_selection_bar_status_bar_color">#bababa</color>
 
     <color name="primary_color_dark">#1c3aa9</color>
-    <color name="primary_color">#2a56c6</color>
+    <color name="primary_color">#576E93</color>
 
     <color name="group_primary_color_dark">#546E7A</color>
     <color name="group_primary_color">#607D8B</color>
@@ -105,7 +105,7 @@
     <color name="people_app_theme_color">#363636</color>
 
     <!-- Color of the theme of the Dialer app -->
-    <color name="dialtacts_theme_color">#2a56c6</color>
+    <color name="dialtacts_theme_color">#576E93</color>
 
     <!-- Color of image view placeholder. -->
     <color name="image_placeholder">#DDDDDD</color>
@@ -230,7 +230,7 @@
     <color name="account_filter_text_color">@color/actionbar_text_color_black</color>
     <color name="custom_filter_divider">#dbdbdb</color>
 
-    <color name="material_star_pink">#f50057</color>
+    <color name="material_star_pink">#576E93</color>
 
     <!-- Primary text color in Contacts app -->
     <color name="contacts_text_color">#333333</color>
