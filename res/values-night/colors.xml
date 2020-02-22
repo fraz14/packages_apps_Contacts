@@ -35,19 +35,19 @@
     <color name="quickcontact_entry_sub_header_text_color">@color/omni_text2</color>
     <color name="quickcontact_entry_header_text_color">@color/omni_text1</color>
 
-    <color name="action_bar_background">@color/omni_color5</color>
+    <color name="action_bar_background">@color/omni_color4</color>
 
-    <color name="actionbar_background_color">@color/omni_color5</color>
+    <color name="actionbar_background_color">@color/omni_color4</color>
 
-    <color name="contextual_selection_bar_color">@color/omni_color5</color>
+    <color name="contextual_selection_bar_color">@color/omni_color4</color>
     <!-- Color of the status bar above the contextual selection bar. -->
     <color name="contextual_selection_bar_status_bar_color">@color/omni_color4</color>
 
-    <color name="primary_color_dark">@color/omni_color5</color>
-    <color name="primary_color">@color/omni_color5</color>
+    <color name="primary_color_dark">@color/omni_color4</color>
+    <color name="primary_color">@color/omni_color4</color>
 
-    <color name="group_primary_color_dark">@color/omni_color5</color>
-    <color name="group_primary_color">@color/omni_color5</color>
+    <color name="group_primary_color_dark">@color/omni_color4</color>
+    <color name="group_primary_color">@color/omni_color4</color>
 
     <!-- Color of the selected tab underline -->
     <color name="contacts_accent_color">@color/omni_color2</color>
@@ -79,7 +79,7 @@
     <color name="empty_state_background">@color/omni_color1</color>
 
     <!-- Colors of swipeRefreshLayout's spinning circle. -->
-    <color name="swipe_refresh_color1">@color/omni_color5</color>
+    <color name="swipe_refresh_color1">@color/omni_color4</color>
     <color name="swipe_refresh_color2">@color/omni_color2</color>
     <color name="swipe_refresh_color3">@color/omni_color3</color>
     <color name="swipe_refresh_color4">#777777</color>
@@ -90,10 +90,10 @@
     <color name="secondary_text_color">@color/omni_text2</color>
 
     <!-- Color of the theme of the People app -->
-    <color name="people_app_theme_color">@color/omni_color5</color>
+    <color name="people_app_theme_color">@color/omni_color4</color>
 
     <!-- Color of the theme of the Dialer app -->
-    <color name="dialtacts_theme_color">@color/omni_color5</color>
+    <color name="dialtacts_theme_color">@color/omni_color4</color>
 
     <!-- Text color for section header. -->
     <color name="section_header_text_color">@color/omni_text1</color>
@@ -119,39 +119,13 @@
         These colors are also used by MaterialColorMapUtils to generate primary activity colors.
     -->
     <array name="letter_tile_colors">
-        <item>#8c2b23</item>
-        <item>#af164a</item>
-        <item>#51d847</item>
-        <item>#4e2b8c</item>
-        <item>#2e3b84</item>
-        <item>#2d5dad</item>
-        <item>#0071a8</item>
-        <item>#0f5d66</item>
-        <item>#02665c</item>
-        <item>#0b7743</item>
-        <item>#507a2c</item>
-        <item>#af4f00</item>
-        <item>#cc451a</item>
-        <item>#595959</item>
+        <item>@color/omni_color4</item>
     </array>
 
     <!-- Darker versions of letter_tile_colors, two shades darker. These colors are used
         for settings secondary activity colors. -->
     <array name="letter_tile_colors_dark">
-        <item>#8c2b23</item>
-        <item>#af164a</item>
-        <item>#51d847</item>
-        <item>#4e2b8c</item>
-        <item>#2e3b84</item>
-        <item>#2d5dad</item>
-        <item>#0071a8</item>
-        <item>#0f5d66</item>
-        <item>#02665c</item>
-        <item>#0b7743</item>
-        <item>#507a2c</item>
-        <item>#af4f00</item>
-        <item>#cc451a</item>
-        <item>#595959</item>
+        <item>@color/omni_color4</item>
     </array>
 
     <!-- The default color used for tinting photos when no color can be extracted via Palette,
@@ -162,7 +136,7 @@
     <color name="quickcontact_default_photo_tint_color_dark">@color/omni_color2</color>
 
     <!-- Color of the title to the Frequently Contacted section -->
-    <color name="frequently_contacted_title_color">@color/omni_color5</color>
+    <color name="frequently_contacted_title_color">@color/omni_color4</color>
 
     <!-- Text color of the search box text as entered by user  -->
     <color name="searchbox_text_color">@color/omni_text1</color>
@@ -199,7 +173,7 @@
     <color name="account_filter_text_color">@color/omni_text1</color>
     <color name="custom_filter_divider">#0b0b0b</color>
 
-    <color name="material_star_pink">@color/omni_color5</color>
+    <color name="material_star_pink">@color/omni_color4</color>
 
     <!-- Primary text color in Contacts app -->
     <color name="contacts_text_color">@color/omni_text1</color>
